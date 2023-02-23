@@ -10,7 +10,7 @@ The purpose for this work was to get to know better in terms of game programming
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/B0Lrwb5B3Do)
 
 # Development Environment
 
@@ -20,8 +20,8 @@ The tools I've been using were Visual Code and Unity. Unity itself has been used
 
 # Useful Websites
 
-- [Web Site Name](http://gyanendushekhar.com/2019/11/17/create-health-bar-unity-3d/)
-- [Web Site Name](https://medium.com/swlh/game-dev-how-to-make-health-bars-in-unity-from-beginner-to-advanced-9a1d728d0cbf)
+- (http://gyanendushekhar.com/2019/11/17/create-health-bar-unity-3d/)
+- (https://medium.com/swlh/game-dev-how-to-make-health-bars-in-unity-from-beginner-to-advanced-9a1d728d0cbf)
 
 # Future Work
 
